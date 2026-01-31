@@ -35,6 +35,7 @@ Recommended contents:
 
 | Prompt | Generator | Preview | Links |
 | --- | --- | --- | --- |
+| Ciphered Soul | ChatGPT Image Generator | ![Ciphered Soul demo](images/Ciphered_Soul/Ciphered_Soul.png) | [prompt.md](images/Ciphered_Soul/prompt.md) / [folder](images/Ciphered_Soul/) |
 | Signal in the Noise | ChatGPT Image Generator | ![Signal in the Noise demo](images/Signal%20in%20the%20Noise/GPT_images1.png) | [prompt.md](images/Signal%20in%20the%20Noise/prompt.md) / [folder](images/Signal%20in%20the%20Noise/) |
 
 ## :handshake: Contributing
