@@ -2,6 +2,10 @@
 
 ![Demo](./GPT_images1.png)
 
+## Generator
+
+ChatGPT Image Generator
+
 ## Copy-ready prompt (JSON)
 
 Use the GitHub copy button on the code block (top-right) to copy in one click.

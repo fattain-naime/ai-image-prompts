@@ -6,7 +6,7 @@
 
 # :art: Image Prompts
 
-A public, curated gallery of AI-generated images prompts with example outputs. Each prompt folder includes a `prompt.md` file (copy-ready) and at least one demo image so you can quickly preview the result.
+A public, curated gallery of AI-generated image prompts with example outputs. Each prompt folder includes a `prompt.md` file (copy-ready) and at least one demo image so you can quickly preview the result.
 
 ## :sparkles: What you'll find here
 
@@ -33,9 +33,9 @@ Recommended contents:
 
 ## :pushpin: Prompt index
 
-| Prompt | Example image | Links |
-| --- | --- | --- |
-| Signal in the Noise | ![Signal in the Noise demo](images/Signal%20in%20the%20Noise/GPT_images1.png) | [Folder](images/Signal%20in%20the%20Noise/) / [prompt.md](images/Signal%20in%20the%20Noise/prompt.md) |
+| Prompt | Generator | Preview | Links |
+| --- | --- | --- | --- |
+| Signal in the Noise | ChatGPT Image Generator | ![Signal in the Noise demo](images/Signal%20in%20the%20Noise/GPT_images1.png) | [prompt.md](images/Signal%20in%20the%20Noise/prompt.md) / [folder](images/Signal%20in%20the%20Noise/) |
 
 ## :handshake: Contributing
 
