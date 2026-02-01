@@ -36,6 +36,7 @@ Recommended contents:
 | Prompt | Generator | Preview | Links |
 | --- | --- | --- | --- |
 | Ciphered Soul | ChatGPT Image Generator | ![Ciphered Soul demo](images/Ciphered_Soul/Ciphered_Soul.png) | [prompt.md](images/Ciphered_Soul/prompt.md) / [folder](images/Ciphered_Soul/) |
+| Mr. Robot | Gemini Nano Banana Pro | ![Mr. Robot demo](images/mr_robot/mr_robot.png) | [prompt.md](images/mr_robot/prompt.md) / [folder](images/mr_robot/) |
 | Signal in the Noise | ChatGPT Image Generator | ![Signal in the Noise demo](images/Signal%20in%20the%20Noise/GPT_images1.png) | [prompt.md](images/Signal%20in%20the%20Noise/prompt.md) / [folder](images/Signal%20in%20the%20Noise/) |
 
 ## :handshake: Contributing
