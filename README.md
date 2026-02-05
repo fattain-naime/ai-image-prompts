@@ -37,7 +37,7 @@ Recommended contents:
 | --- | --- | --- | --- | --- |
 | 1 | Back To School Illustration | Gemini Nano Banana Pro | ![Back To School Illustration demo](images/back_to_school_illustration/image-55-450x675.webp) | [prompt.md](images/back_to_school_illustration/prompt.md) / [folder](images/back_to_school_illustration/) |
 | 2 | Boss Mode Founder Shot | Gemini Nano Banana Pro | ![Boss Mode Founder Shot demo](images/boss_mode_founder_shot/image-47-450x675.webp) | [prompt.md](images/boss_mode_founder_shot/prompt.md) / [folder](images/boss_mode_founder_shot/) |
-| 3 | Bridal Saree Look | Gemini Nano Banana Pro |  | [prompt.md](images/bridal_saree_look/prompt.md) / [folder](images/bridal_saree_look/) |
+| 3 | Bridal Saree Look | Gemini Nano Banana Pro | ![Bridal Saree Look demo](images/bridal_saree_look/Gemini_Generated_Image_k1rqgkk1rqgkk1rq.png) | [prompt.md](images/bridal_saree_look/prompt.md) / [folder](images/bridal_saree_look/) |
 | 4 | Businessman Charcoal Black | Gemini Nano Banana Pro | ![Businessman Charcoal Black demo](images/Businessman_charcoal_black/Gemini_Generated_Image_jgng4wjgng4wjgng.png) | [prompt.md](images/Businessman_charcoal_black/prompt.md) / [folder](images/Businessman_charcoal_black/) |
 | 5 | Businessman Deep Navy Blue | Gemini Nano Banana Pro | ![Businessman Deep Navy Blue demo](images/Businessman_deep_navy_blue/Gemini_Generated_Image_adi8s5adi8s5adi8.png) | [prompt.md](images/Businessman_deep_navy_blue/prompt.md) / [folder](images/Businessman_deep_navy_blue/) |
 | 6 | Businessman Deep Navy Blue Slim Fit | Gemini Nano Banana Pro | ![Businessman Deep Navy Blue Slim Fit demo](images/Businessman_deep_navy_blue_slim_fit/Gemini_Generated_Image_4o2azy4o2azy4o2a.png) | [prompt.md](images/Businessman_deep_navy_blue_slim_fit/prompt.md) / [folder](images/Businessman_deep_navy_blue_slim_fit/) |
@@ -108,4 +108,4 @@ Pull requests are welcome.
 
 Maintained by **Fattain Naime**.
 
-- Website: https://iamnaime.info.bd
+- Website: <https://iamnaime.info.bd>

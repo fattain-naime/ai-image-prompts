@@ -1,0 +1,465 @@
+{
+  "version": 1,
+  "count": 51,
+  "items": [
+    {
+      "no": 1,
+      "slug": "back_to_school_illustration",
+      "title": "Back To School Illustration",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/back_to_school_illustration/image-55-450x675.webp",
+      "prompt_path": "images/back_to_school_illustration/prompt.md",
+      "folder_path": "images/back_to_school_illustration/"
+    },
+    {
+      "no": 2,
+      "slug": "boss_mode_founder_shot",
+      "title": "Boss Mode Founder Shot",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/boss_mode_founder_shot/image-47-450x675.webp",
+      "prompt_path": "images/boss_mode_founder_shot/prompt.md",
+      "folder_path": "images/boss_mode_founder_shot/"
+    },
+    {
+      "no": 3,
+      "slug": "bridal_saree_look",
+      "title": "Bridal Saree Look",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/bridal_saree_look/Gemini_Generated_Image_k1rqgkk1rqgkk1rq.png",
+      "prompt_path": "images/bridal_saree_look/prompt.md",
+      "folder_path": "images/bridal_saree_look/"
+    },
+    {
+      "no": 4,
+      "slug": "Businessman_charcoal_black",
+      "title": "Businessman Charcoal Black",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/Businessman_charcoal_black/Gemini_Generated_Image_jgng4wjgng4wjgng.png",
+      "prompt_path": "images/Businessman_charcoal_black/prompt.md",
+      "folder_path": "images/Businessman_charcoal_black/"
+    },
+    {
+      "no": 5,
+      "slug": "Businessman_deep_navy_blue",
+      "title": "Businessman Deep Navy Blue",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/Businessman_deep_navy_blue/Gemini_Generated_Image_adi8s5adi8s5adi8.png",
+      "prompt_path": "images/Businessman_deep_navy_blue/prompt.md",
+      "folder_path": "images/Businessman_deep_navy_blue/"
+    },
+    {
+      "no": 6,
+      "slug": "Businessman_deep_navy_blue_slim_fit",
+      "title": "Businessman Deep Navy Blue Slim Fit",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/Businessman_deep_navy_blue_slim_fit/Gemini_Generated_Image_4o2azy4o2azy4o2a.png",
+      "prompt_path": "images/Businessman_deep_navy_blue_slim_fit/prompt.md",
+      "folder_path": "images/Businessman_deep_navy_blue_slim_fit/"
+    },
+    {
+      "no": 7,
+      "slug": "Businessman_rich_burgundy_suit",
+      "title": "Businessman Rich Burgundy Suit",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/Businessman_rich_burgundy_suit/Gemini_Generated_Image_rjo13srjo13srjo1.png",
+      "prompt_path": "images/Businessman_rich_burgundy_suit/prompt.md",
+      "folder_path": "images/Businessman_rich_burgundy_suit/"
+    },
+    {
+      "no": 8,
+      "slug": "Businessman_slate_grey_modern_cut_suit",
+      "title": "Businessman Slate Grey Modern Cut Suit",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/Businessman_slate_grey_modern_cut_suit/Gemini_Generated_Image_izmcvqizmcvqizmc.png",
+      "prompt_path": "images/Businessman_slate_grey_modern_cut_suit/prompt.md",
+      "folder_path": "images/Businessman_slate_grey_modern_cut_suit/"
+    },
+    {
+      "no": 9,
+      "slug": "cartoon_princess_girls",
+      "title": "Cartoon Princess Girls",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/cartoon_princess_girls/image-42-450x675.webp",
+      "prompt_path": "images/cartoon_princess_girls/prompt.md",
+      "folder_path": "images/cartoon_princess_girls/"
+    },
+    {
+      "no": 10,
+      "slug": "cinematic_sci_fi_still_with_camera_controls",
+      "title": "Cinematic Sci Fi Still With Camera Controls",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/cinematic_sci_fi_still_with_camera_controls/nano-banana-prompts-5-1024x536.webp",
+      "prompt_path": "images/cinematic_sci_fi_still_with_camera_controls/prompt.md",
+      "folder_path": "images/cinematic_sci_fi_still_with_camera_controls/"
+    },
+    {
+      "no": 11,
+      "slug": "Ciphered_Soul",
+      "title": "Ciphered Soul",
+      "generator": "ChatGPT Image Generator",
+      "image": "images/Ciphered_Soul/Ciphered_Soul.png",
+      "prompt_path": "images/Ciphered_Soul/prompt.md",
+      "folder_path": "images/Ciphered_Soul/"
+    },
+    {
+      "no": 12,
+      "slug": "classic_saree_portrait",
+      "title": "Classic Saree Portrait",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/classic_saree_portrait/image-45-450x675.webp",
+      "prompt_path": "images/classic_saree_portrait/prompt.md",
+      "folder_path": "images/classic_saree_portrait/"
+    },
+    {
+      "no": 13,
+      "slug": "clean_linkedin_headshot",
+      "title": "Clean Linkedin Headshot",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/clean_linkedin_headshot/image-37-450x675.webp",
+      "prompt_path": "images/clean_linkedin_headshot/prompt.md",
+      "folder_path": "images/clean_linkedin_headshot/"
+    },
+    {
+      "no": 14,
+      "slug": "code_to_oauth_2_0_diagram",
+      "title": "Code To Oauth 2 0 Diagram",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/code_to_oauth_2_0_diagram/nano-banana-prompts-2-1024x536.webp",
+      "prompt_path": "images/code_to_oauth_2_0_diagram/prompt.md",
+      "folder_path": "images/code_to_oauth_2_0_diagram/"
+    },
+    {
+      "no": 15,
+      "slug": "contemporary_saree_fashion_editorial",
+      "title": "Contemporary Saree Fashion Editorial",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/contemporary_saree_fashion_editorial/Gemini_Generated_Image_gb9hxgb9hxgb9hxg.png",
+      "prompt_path": "images/contemporary_saree_fashion_editorial/prompt.md",
+      "folder_path": "images/contemporary_saree_fashion_editorial/"
+    },
+    {
+      "no": 16,
+      "slug": "cozy_indoor_portrait",
+      "title": "Cozy Indoor Portrait",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/cozy_indoor_portrait/image-51-450x675.webp",
+      "prompt_path": "images/cozy_indoor_portrait/prompt.md",
+      "folder_path": "images/cozy_indoor_portrait/"
+    },
+    {
+      "no": 17,
+      "slug": "editorial_beauty_shot",
+      "title": "Editorial Beauty Shot",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/editorial_beauty_shot/image-50-450x675.webp",
+      "prompt_path": "images/editorial_beauty_shot/prompt.md",
+      "folder_path": "images/editorial_beauty_shot/"
+    },
+    {
+      "no": 18,
+      "slug": "fairy_tale_storybook_illustration_girls",
+      "title": "Fairy Tale Storybook Illustration Girls",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/fairy_tale_storybook_illustration_girls/image-52-450x675.webp",
+      "prompt_path": "images/fairy_tale_storybook_illustration_girls/prompt.md",
+      "folder_path": "images/fairy_tale_storybook_illustration_girls/"
+    },
+    {
+      "no": 19,
+      "slug": "fantasy_animal_friend",
+      "title": "Fantasy Animal Friend",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/fantasy_animal_friend/image-56-450x675.webp",
+      "prompt_path": "images/fantasy_animal_friend/prompt.md",
+      "folder_path": "images/fantasy_animal_friend/"
+    },
+    {
+      "no": 20,
+      "slug": "fashion_moodboard_to_complete_outfit",
+      "title": "Fashion Moodboard To Complete Outfit",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/fashion_moodboard_to_complete_outfit/nano-banana-prompts-7-1024x536.webp",
+      "prompt_path": "images/fashion_moodboard_to_complete_outfit/prompt.md",
+      "folder_path": "images/fashion_moodboard_to_complete_outfit/"
+    },
+    {
+      "no": 21,
+      "slug": "festival_party_look",
+      "title": "Festival Party Look",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/festival_party_look/image-49-450x675.webp",
+      "prompt_path": "images/festival_party_look/prompt.md",
+      "folder_path": "images/festival_party_look/"
+    },
+    {
+      "no": 22,
+      "slug": "festive_saree_celebration",
+      "title": "Festive Saree Celebration",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/festive_saree_celebration/Gemini_Generated_Image_u7mn2vu7mn2vu7mn.png",
+      "prompt_path": "images/festive_saree_celebration/prompt.md",
+      "folder_path": "images/festive_saree_celebration/"
+    },
+    {
+      "no": 23,
+      "slug": "fitness_progress_photo",
+      "title": "Fitness Progress Photo",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/fitness_progress_photo/image-38-450x675.webp",
+      "prompt_path": "images/fitness_progress_photo/prompt.md",
+      "folder_path": "images/fitness_progress_photo/"
+    },
+    {
+      "no": 24,
+      "slug": "football_cricket_star_boys",
+      "title": "Football Cricket Star Boys",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/football_cricket_star_boys/image-54-450x675.webp",
+      "prompt_path": "images/football_cricket_star_boys/prompt.md",
+      "folder_path": "images/football_cricket_star_boys/"
+    },
+    {
+      "no": 25,
+      "slug": "formal_portrait_with_blazer",
+      "title": "Formal Portrait With Blazer",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/formal_portrait_with_blazer/image-39-450x675.webp",
+      "prompt_path": "images/formal_portrait_with_blazer/prompt.md",
+      "folder_path": "images/formal_portrait_with_blazer/"
+    },
+    {
+      "no": 26,
+      "slug": "full_restaurant_menu_with_perfect_text",
+      "title": "Full Restaurant Menu With Perfect Text",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/full_restaurant_menu_with_perfect_text/nano-banana-prompts-4-1024x536.webp",
+      "prompt_path": "images/full_restaurant_menu_with_perfect_text/prompt.md",
+      "folder_path": "images/full_restaurant_menu_with_perfect_text/"
+    },
+    {
+      "no": 27,
+      "slug": "happy_new_year_2026_prompt",
+      "title": "Happy New Year 2026 Prompt",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/happy_new_year_2026_prompt/image-65-450x675.webp",
+      "prompt_path": "images/happy_new_year_2026_prompt/prompt.md",
+      "folder_path": "images/happy_new_year_2026_prompt/"
+    },
+    {
+      "no": 28,
+      "slug": "historical_recreation_by_coordinates",
+      "title": "Historical Recreation By Coordinates",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/historical_recreation_by_coordinates/nano-banana-prompts-8-1024x536.webp",
+      "prompt_path": "images/historical_recreation_by_coordinates/prompt.md",
+      "folder_path": "images/historical_recreation_by_coordinates/"
+    },
+    {
+      "no": 29,
+      "slug": "latest_movie_entry_scene_photo_style_trending",
+      "title": "Latest Movie Entry Scene Photo Style Trending",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/latest_movie_entry_scene_photo_style_trending/image-61-450x675.webp",
+      "prompt_path": "images/latest_movie_entry_scene_photo_style_trending/prompt.md",
+      "folder_path": "images/latest_movie_entry_scene_photo_style_trending/"
+    },
+    {
+      "no": 30,
+      "slug": "localize_product_packaging_for_6_countries",
+      "title": "Localize Product Packaging For 6 Countries",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/localize_product_packaging_for_6_countries/nano-banana-prompts-16-1024x536.webp",
+      "prompt_path": "images/localize_product_packaging_for_6_countries/prompt.md",
+      "folder_path": "images/localize_product_packaging_for_6_countries/"
+    },
+    {
+      "no": 31,
+      "slug": "logo_sketch_to_8_professional_variations",
+      "title": "Logo Sketch To 8 Professional Variations",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/logo_sketch_to_8_professional_variations/nano-banana-prompts-14-1024x536.webp",
+      "prompt_path": "images/logo_sketch_to_8_professional_variations/prompt.md",
+      "folder_path": "images/logo_sketch_to_8_professional_variations/"
+    },
+    {
+      "no": 32,
+      "slug": "minimal_quote_card_design",
+      "title": "Minimal Quote Card Design",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/minimal_quote_card_design/elon-musk-quote-on-ai-450x675.webp",
+      "prompt_path": "images/minimal_quote_card_design/prompt.md",
+      "folder_path": "images/minimal_quote_card_design/"
+    },
+    {
+      "no": 33,
+      "slug": "minimalist_studio_portrait",
+      "title": "Minimalist Studio Portrait",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/minimalist_studio_portrait/image-58-450x675.webp",
+      "prompt_path": "images/minimalist_studio_portrait/prompt.md",
+      "folder_path": "images/minimalist_studio_portrait/"
+    },
+    {
+      "no": 34,
+      "slug": "mood_board_to_coffee_shop_interior",
+      "title": "Mood Board To Coffee Shop Interior",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/mood_board_to_coffee_shop_interior/nano-banana-prompts-11-1024x536.webp",
+      "prompt_path": "images/mood_board_to_coffee_shop_interior/prompt.md",
+      "folder_path": "images/mood_board_to_coffee_shop_interior/"
+    },
+    {
+      "no": 35,
+      "slug": "mr_robot",
+      "title": "Mr. Robot",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/mr_robot/mr_robot.png",
+      "prompt_path": "images/mr_robot/prompt.md",
+      "folder_path": "images/mr_robot/"
+    },
+    {
+      "no": 36,
+      "slug": "pet_to_3d_character_sheet",
+      "title": "Pet To 3d Character Sheet",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/pet_to_3d_character_sheet/nano-banana-prompts-3-1024x536.webp",
+      "prompt_path": "images/pet_to_3d_character_sheet/prompt.md",
+      "folder_path": "images/pet_to_3d_character_sheet/"
+    },
+    {
+      "no": 37,
+      "slug": "planet_sizes_to_classroom_infographic",
+      "title": "Planet Sizes To Classroom Infographic",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/planet_sizes_to_classroom_infographic/nano-banana-prompts-9-1024x536.webp",
+      "prompt_path": "images/planet_sizes_to_classroom_infographic/prompt.md",
+      "folder_path": "images/planet_sizes_to_classroom_infographic/"
+    },
+    {
+      "no": 38,
+      "slug": "polaroid_collage",
+      "title": "Polaroid Collage",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/polaroid_collage/image-59-450x675.webp",
+      "prompt_path": "images/polaroid_collage/prompt.md",
+      "folder_path": "images/polaroid_collage/"
+    },
+    {
+      "no": 39,
+      "slug": "pre_wedding_garden_shoot",
+      "title": "Pre Wedding Garden Shoot",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/pre_wedding_garden_shoot/image-57-450x675.webp",
+      "prompt_path": "images/pre_wedding_garden_shoot/prompt.md",
+      "folder_path": "images/pre_wedding_garden_shoot/"
+    },
+    {
+      "no": 40,
+      "slug": "Product_pages1",
+      "title": "Product Pages 1",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/Product_pages1/Gemini_Generated_Image_9fouug9fouug9fou.png",
+      "prompt_path": "images/Product_pages1/prompt.md",
+      "folder_path": "images/Product_pages1/"
+    },
+    {
+      "no": 41,
+      "slug": "product_photography_consistency_test",
+      "title": "Product Photography Consistency Test",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/product_photography_consistency_test/nano-banana-prompts-10-1024x536.webp",
+      "prompt_path": "images/product_photography_consistency_test/prompt.md",
+      "folder_path": "images/product_photography_consistency_test/"
+    },
+    {
+      "no": 42,
+      "slug": "real_time_crypto_dashboard",
+      "title": "Real Time Crypto Dashboard",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/real_time_crypto_dashboard/nana-prompt-1024x536.webp",
+      "prompt_path": "images/real_time_crypto_dashboard/prompt.md",
+      "folder_path": "images/real_time_crypto_dashboard/"
+    },
+    {
+      "no": 43,
+      "slug": "remote_team_to_one_group_photo",
+      "title": "Remote Team To One Group Photo",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/remote_team_to_one_group_photo/nano-banana-prompts-15-1024x536.webp",
+      "prompt_path": "images/remote_team_to_one_group_photo/prompt.md",
+      "folder_path": "images/remote_team_to_one_group_photo/"
+    },
+    {
+      "no": 44,
+      "slug": "Signal in the Noise",
+      "title": "Signal in the Noise",
+      "generator": "ChatGPT Image Generator",
+      "image": "images/Signal in the Noise/GPT_images1.png",
+      "prompt_path": "images/Signal in the Noise/prompt.md",
+      "folder_path": "images/Signal in the Noise/"
+    },
+    {
+      "no": 45,
+      "slug": "soft_pastel_aesthetic_portrait",
+      "title": "Soft Pastel Aesthetic Portrait",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/soft_pastel_aesthetic_portrait/image-41-450x675.webp",
+      "prompt_path": "images/soft_pastel_aesthetic_portrait/prompt.md",
+      "folder_path": "images/soft_pastel_aesthetic_portrait/"
+    },
+    {
+      "no": 46,
+      "slug": "street_style_saree",
+      "title": "Street Style Saree",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/street_style_saree/Gemini_Generated_Image_ea6erjea6erjea6e.png",
+      "prompt_path": "images/street_style_saree/prompt.md",
+      "folder_path": "images/street_style_saree/"
+    },
+    {
+      "no": 47,
+      "slug": "streetwear_lifestyle_photo_prompt",
+      "title": "Streetwear Lifestyle Photo Prompt",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/streetwear_lifestyle_photo_prompt/image-64-450x675.webp",
+      "prompt_path": "images/streetwear_lifestyle_photo_prompt/prompt.md",
+      "folder_path": "images/streetwear_lifestyle_photo_prompt/"
+    },
+    {
+      "no": 48,
+      "slug": "sunset_beach_portrait",
+      "title": "Sunset Beach Portrait",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/sunset_beach_portrait/image-44-450x675.webp",
+      "prompt_path": "images/sunset_beach_portrait/prompt.md",
+      "folder_path": "images/sunset_beach_portrait/"
+    },
+    {
+      "no": 49,
+      "slug": "superhero_poster_boys",
+      "title": "Superhero Poster Boys",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/superhero_poster_boys/image-53-450x675.webp",
+      "prompt_path": "images/superhero_poster_boys/prompt.md",
+      "folder_path": "images/superhero_poster_boys/"
+    },
+    {
+      "no": 50,
+      "slug": "travel_explorer_shot",
+      "title": "Travel Explorer Shot",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/travel_explorer_shot/image-40-450x675.webp",
+      "prompt_path": "images/travel_explorer_shot/prompt.md",
+      "folder_path": "images/travel_explorer_shot/"
+    },
+    {
+      "no": 51,
+      "slug": "travel_postcard",
+      "title": "Travel Postcard",
+      "generator": "Gemini Nano Banana Pro",
+      "image": "images/travel_postcard/image-60-450x675.webp",
+      "prompt_path": "images/travel_postcard/prompt.md",
+      "folder_path": "images/travel_postcard/"
+    }
+  ]
+}
